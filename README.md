@@ -2,4 +2,4 @@
 
 ### Project done for one of my clients from SriLanka.
 
-The repository contains the codes for both the LoRa transmitter and the LoRa reciever.
+The repository contains the codes for both the LoRa transmitter, and the LoRa reciever.
